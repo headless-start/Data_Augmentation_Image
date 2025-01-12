@@ -1,6 +1,6 @@
 # Image Augmentation and MNIST Classification with TensorFlow
 
-This project demonstrates image augmentation techniques and trains a neural network on the MNIST dataset using TensorFlow. The goal is to showcase the impact of data augmentation on model performance. (Ensure version of Tensorflow and cuDNN library).
+This project demonstrates image augmentation techniques and trains a neural network on the MNIST dataset using TensorFlow. The goal is to showcase the impact of data augmentation on model performance.
 
 ---
 
@@ -22,5 +22,7 @@ This project demonstrates image augmentation techniques and trains a neural netw
   - Neural network with two hidden layers, each having 4096 neurons and ReLU activation.
   - Trained on augmented and non-augmented datasets for performance comparison.
 
+- **System Requirements**
+  - Ensure version of Tensorflow and cuDNN library.
 ---
 
