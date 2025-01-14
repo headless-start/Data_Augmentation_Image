@@ -23,6 +23,17 @@ This project demonstrates image augmentation techniques and trains a neural netw
   - Trained on augmented and non-augmented datasets for performance comparison.
 
 - **System Requirements**
-  - Ensure version of Tensorflow and cuDNN library.
----
+
+  1. Python 3.6+
+
+  2. TensorFlow 2.x (Ensure version of Tensorflow compatible with cuDNN library.)
+
+  3. TensorFlow Datasets
+
+  4. Matplotlib
+
+  5. Pillow (PIL)
+
+  6. TensorFlow Docs (optional for visualization) - Ensure version of Tensorflow and cuDNN library.
+
 
