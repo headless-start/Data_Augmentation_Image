@@ -4,7 +4,7 @@
 This project demonstrates the impact of **image augmentation techniques** on model performance by training a neural network on the MNIST dataset. Key comparisons include model accuracy and generalization with/without augmentation.  
 
 **Dataset**: MNIST.  
-**Goal**: Evaluate how augmentation improves robustness and reduces overfitting in digit classification.  
+**Goal**: Evaluate how augmentation improves robustness and reduces overfitting in general Image classification tasks.
 
 ---
 
