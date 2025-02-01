@@ -32,7 +32,7 @@ This project demonstrates the impact of **image augmentation techniques** on mod
 
 ---
 
-## 🛠 Usage  
+## 🛠 System Requirements  
 ### Dependencies  
 - Python 3.6+  
 - Libraries: `tensorflow`, `tensorflow-datasets`, `matplotlib`, `Pillow`  
