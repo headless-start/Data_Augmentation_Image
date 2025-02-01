@@ -34,7 +34,7 @@ This project demonstrates the impact of **image augmentation techniques** on mod
 
 ## 🛠 System Requirements  
 ### Dependencies  
-- Python 3.6+  
+- Python 3.8+  
 - Libraries: `tensorflow`, `tensorflow-datasets`, `matplotlib`, `Pillow`  
 - Hardware: GPU with cuDNN support (recommended)
 
