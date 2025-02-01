@@ -1,4 +1,4 @@
-# 🖼️ Image Augmentation & MNIST Classification with TensorFlow  
+# Image Augmentation & MNIST Classification with TensorFlow  
 
 ## 📌 Project Overview  
 This project demonstrates the impact of **image augmentation techniques** on model performance by training a neural network on the MNIST dataset. Key comparisons include model accuracy and generalization with/without augmentation.  
@@ -36,4 +36,9 @@ This project demonstrates the impact of **image augmentation techniques** on mod
 ### Dependencies  
 - Python 3.6+  
 - Libraries: `tensorflow`, `tensorflow-datasets`, `matplotlib`, `Pillow`  
-- Hardware: GPU with cuDNN support (recommended)  
+- Hardware: GPU with cuDNN support (recommended)
+
+---
+
+## 📄 License  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
