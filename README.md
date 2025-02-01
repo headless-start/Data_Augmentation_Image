@@ -1,4 +1,4 @@
-# Image Augmentation & MNIST Classification with TensorFlow  
+# Image Augmentation with TensorFlow  
 
 ## 📌 Project Overview  
 This project demonstrates the impact of **image augmentation techniques** on model performance by training a neural network on the MNIST dataset. Key comparisons include model accuracy and generalization with/without augmentation.  
