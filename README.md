@@ -22,13 +22,13 @@ This project demonstrates the impact of **image augmentation techniques** on mod
 
 ## 🔍 Findings  
 - **Augmented Model**:  
-  - **Accuracy**: 98.2% (train) vs. 97.8% (test) – reduced overfitting gap by 60%.  
-  - **Runtime**: 12.3s/epoch | **Memory**: 1.2GB (TensorFlow GPU).  
+  - **Accuracy**: 94.2% (train) vs. 95.8% (test)  
+  - **Runtime**: 3s/epoch | **Memory**: 4GB (NVIDIA GPU).  
 - **Baseline (No Augmentation)**:  
-  - **Accuracy**: 99.1% (train) vs. 97.1% (test) – larger overfitting gap.  
-  - **Runtime**: 8.7s/epoch | **Memory**: 0.9GB.  
+  - **Accuracy**: 99.1% (train) vs. 94.4% (test) 
+  - **Runtime**: 3s/epoch | **Memory**: 3.8GB (NVIDIA GPU). 
 - **Conclusion**:  
-  - Augmentation improved test generalization by 0.7% while adding minimal computational overhead.  
+  - Augmentation improved test generalization by 1.4% while adding minimal computational overhead.  
 
 ---
 
